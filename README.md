@@ -1,5 +1,6 @@
 # pypwm
-In this project a fully functional and secure password manager is implemented in python.  Both a command line as well as a gui version are provided
+##In this project a fully functional and secure password manager is implemented in python.  Both a command line as well as a gui version are provided.
+
 The password manager works as follows:
 1. passwordinfo is saved in a dictionary, i.e password=p[service]
 2. This dictionary  is pickled to a string.
